@@ -7,6 +7,7 @@ I learn by building. I make games, websites and generative art, and I'm explorin
 ### 🏆 Highlights
 - **Best Use of Quantum award**, IBM x MOTH Qiskit Fall Fest 2026 Hackathon, for [QuBot's Quantum Escape](https://github.com/raharahman/qubots-quantum-escape)
 - Coded and deployed **[natchomatcha.com](https://natchomatcha.com)**, the live waitlist site for my own matcha brand
+- **Year 1 Course Representative**, BSc Creative Computing (UAL): I represent my cohort and meet regularly with the course leader
 - Before university: worked in fintech at **Monzo** and led event teams of up to 20
 
 ### 🛠️ What I'm working with
